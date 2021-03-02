@@ -1,2 +1,1 @@
-# yokobot
-w
+#
